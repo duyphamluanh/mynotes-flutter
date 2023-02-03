@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "705923835724",
+    "project_id": "mynotes-anis",
+    "storage_bucket": "mynotes-anis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705923835724:android:d36eb5c3d7a167130051e9",
+        "android_client_info": {
+          "package_name": "elo.software.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705923835724-348o84g2g7vm6muaeak6j23eu3q2s96i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WX6sTCCPGGCi4Ukr4FBGT8tneoovEAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705923835724-348o84g2g7vm6muaeak6j23eu3q2s96i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705923835724-jbd8ckm9kmrd06pe01gbu14g3ov5iqu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "elo.software.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
